@@ -4,7 +4,7 @@
 
 ## Site🌐
 
-[ 🔗 Clique aqui para acessar](https://e-commerce-de-i-phones.vercel.app/)
+[ 🔗 Clique aqui para acessar](https://ecommercedeiphones.vercel.app/)
 
 ## 🛠️ Tecnologias
 - Reactjs
